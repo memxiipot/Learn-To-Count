@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearnToCount</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_count1">count1</string>
+    <string name="title_activity_count2">count2</string>
+    <string name="title_activity_count3">count3</string>
+    <string name="title_activity_count4">count4</string>
+    <string name="title_activity_count5">count5</string>
+    <string name="title_activity_count6">count6</string>
+    <string name="title_activity_count7">count7</string>
+    <string name="title_activity_count8">count8</string>
+    <string name="title_activity_count9">count9</string>
+    <string name="title_activity_count10">count10</string>
+
+</resources>

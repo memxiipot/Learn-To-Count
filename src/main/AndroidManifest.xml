@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.learntocount.learntocount" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".count1"
+            android:label="@string/title_activity_count1" >
+        </activity>
+        <activity
+            android:name=".count2"
+            android:label="@string/title_activity_count2" >
+        </activity>
+        <activity
+            android:name=".count3"
+            android:label="@string/title_activity_count3" >
+        </activity>
+        <activity
+            android:name=".count4"
+            android:label="@string/title_activity_count4" >
+        </activity>
+        <activity
+            android:name=".count5"
+            android:label="@string/title_activity_count5" >
+        </activity>
+        <activity
+            android:name=".count6"
+            android:label="@string/title_activity_count6" >
+        </activity>
+        <activity
+            android:name=".count7"
+            android:label="@string/title_activity_count7" >
+        </activity>
+        <activity
+            android:name=".count8"
+            android:label="@string/title_activity_count8" >
+        </activity>
+        <activity
+            android:name=".count9"
+            android:label="@string/title_activity_count9" >
+        </activity>
+        <activity
+            android:name=".count10"
+            android:label="@string/title_activity_count10" >
+        </activity>
+    </application>
+
+</manifest>
